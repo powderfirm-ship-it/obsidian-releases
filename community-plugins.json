@@ -35215,5 +35215,12 @@
     "author": "penyt",
     "description": "Add customizable colors to highlights and bold text, with commands to convert styled Markdown to inline HTML. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "penyt/style-obmd"
+  },
+  {
+    "id": "menubar-time-tracker",
+    "name": "Menu-Bar Time Tracker",
+    "author": "Meirakami",
+    "description": "One-click project time tracking from the macOS menu bar. Stop the timer, tag the project, and a markdown session note lands in your vault.",
+    "repo": "powderfirm-ship-it/obsidian-menubar-time-tracker"
   }
 ]
